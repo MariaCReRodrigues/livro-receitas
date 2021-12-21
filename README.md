@@ -1,4 +1,4 @@
-# Livro de Receitas :coo
+# Livro de Receitas 👨‍🍳
 
 Olá bem0vindo ao livro de receitas 
 
